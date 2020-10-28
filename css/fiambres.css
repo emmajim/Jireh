@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: url(../img/fondo.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.menu p {
+    font-family: 'Staatliches', cursive;
+    font-size: 30px;
+    margin-left: 60px;
+    color:black;
+    margin-bottom: 100px;
+}
+
+img {
+    height: 362px;
+    width: 630px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 55px;
+    color: black;
+}
+
+#1 p {
+    color:black;
+}
